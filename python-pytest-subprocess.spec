@@ -4,7 +4,7 @@
 
 Name:		python-pytest-subprocess
 Version:	1.5.3
-Release:	1
+Release:	2
 Summary:	A plugin to fake subprocess for pytest
 URL:		https://pypi.org/project/pytest-subprocess/
 License:	MIT
