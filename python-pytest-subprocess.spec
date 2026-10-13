@@ -4,7 +4,7 @@
 
 Name:		python-pytest-subprocess
 Version:	1.6.0
-Release:	1
+Release:	2
 Summary:	A plugin to fake subprocess for pytest
 License:	MIT
 Group:		Development/Python
@@ -13,7 +13,7 @@ Source0:	https://files.pythonhosted.org/packages/source/p/%{module}/%{oname}-%{v
 
 BuildSystem:	python
 BuildArch:	noarch
-BuildRequires:	pkgconfig(python)
+BuildRequires:	pkgconfig(python3)
 BuildRequires:	python%{pyver}dist(pip)
 BuildRequires:	python%{pyver}dist(setuptools)
 BuildRequires:	python%{pyver}dist(wheel)
